@@ -1,0 +1,10 @@
+# Post http://localhost:5000/api/users 
+# content-type: application/json
+
+# {
+#   "name":"Herbert",
+#   "email":"herbert@gmail.com",
+#   "password":"123456"
+# } 
+
+Get http://localhost:5000/api/profile
