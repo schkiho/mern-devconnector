@@ -561,7 +561,7 @@ button {
     flex-direction: column;
   }
 
-  .dash-buttons a {
+  .dash-buttons link {
     display: block;
     width: 100%;
     margin-bottom: 0.2rem;
