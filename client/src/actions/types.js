@@ -18,3 +18,7 @@ export const CLEAR_PROFILE = 'CLEAR_PROFILE';
 export const ACCOUNT_DELETED = 'ACCOUNT_DELETED';
 export const UPDATE_LIKES = 'UPDATE_LIKES';
 export const DELETED_POST = 'DELETED_POST';
+export const ADD_POST = 'ADD_POST';
+export const GET_POST = 'GET_POST';
+export const ADD_COMMENT = 'ADD_COMMENT';
+export const REMOVE_COMMENT = 'REMOVE_COMMENT';
