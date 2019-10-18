@@ -1,10 +1,10 @@
-const mongoose = require("mongoose");
+const mongoose = require('mongoose');
 
 const ProfileSchema = new mongoose.Schema({
   // Connect the profile to a specific user
   user: {
     type: mongoose.Schema.Types.ObjectId,
-    ref: "User"
+    ref: 'User'
   },
   company: {
     type: String
@@ -111,4 +111,4 @@ const ProfileSchema = new mongoose.Schema({
   }
 });
 
-module.exports = Profile = mongoose.model("Profile", ProfileSchema);
+module.exports = Profile = mongoose.model('Profile', ProfileSchema);
