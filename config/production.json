@@ -1,6 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://smi123:smi123@devconnector-etllp.mongodb.net/devconnector?retryWrites=true&w=majority",
-  "jwtSecret": "smiAuth",
-  "githubClientId": "18c646f2e1f0143de473",
-  "githubSecret": "05962fbdeaff6cead63145a35b618c5010776578"
-}
