@@ -1,6 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://<yourUserName>:<yourPassword>@devconnector-etllp.mongodb.net/devconnector?retryWrites=true&w=majority",
-  "jwtSecret": "<yourSecret>",
-  "githubClientId": "<yourGithubClientId>",
-  "githubSecret": "<yourGithubSecret>"
-}
